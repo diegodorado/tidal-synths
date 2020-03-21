@@ -23,7 +23,7 @@ If you don't want to load all synths, load them individually
 
 ## Atribution
 
-I am not sure where the synths came from but they are surely not mines. In the future I will be more careful about this.
+I am not sure where the synths came from but they are surely not mine. In the future I will be more careful about this.
 
 ## Contribution
 
